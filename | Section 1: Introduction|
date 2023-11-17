@@ -1,0 +1,89 @@
+*Introducion To Cloud Computing* 
+
+First, what is cloud computing in general?
+//Cloud computing offers services like databases, servers, storage, etc., eliminating the need for an on premise network by using the internet. 
+
+// The three major cloud computing platofrms are AWS, Azure, Google Cloud Database. 
+
+!The main primary focus is going to be Azure cloud service!
+
+*Azure Free Account*
+
+If you want to start using azure resources, you can create an Azure free account 
+//You get some services for free for a 12 month period + a $200 credit that you can use for 30 days.
+Anything the isnt included with the azure free account and you use, it will use the credit you recived.
+//All you need to ccreate a free account is a phone number + a debit/credit card registered on the account
+and a microsoft pr github account. 
+
+*Creating an Azure Free Account*
+//You first need to sign in with a using a microsoft account
+//Solve the puzzle verifying if youre not a robot 
+//Specify which region you live closest too 
+//Enter your first and last name with your phone number attached. 
+// verify the code sent to your mobile device 
+//agree to the customer agreement 
+// attached a method of payment 
+// click sign up
+
+*Tour around the portal* 
+
+!Every time you log into a free account, it'll remind you of your free credits for 30 days!
+//When you create an account, you will also have a subscription in place as well. This is where the costs of the services will reside. 
+//Azure subscriptions are used for billing purposes. 
+
+*Key Terms* 
+
+//A "service" is a functionality that azure gives you some permissions over. For example, creating a virtual machine is labled as a service in Azure.
+//When you create something in Azure, it's known as a "resource" in Azure. 
+!Resources need to be linked to a subscription since this iis where the bill resides!
+!Every resource also needs to be attached to a "resource group"!
+//"Resource groups" are used to logically group your resources.
+//When you create a resource, the first things that are asked is for a subscription and a resource group. 
+
+*Lab - Creating a resource group* 
+//Clicking on the resource group link will automatically take you to all your exsisting resource groups on the account.
+//Hit the "Create" button to start the process of creating a resource group
+//It will ask to attach a subscription to the new resource group.
+//Create a simple name for the resource group.
+//Next, it will ask for the region you want to create the resource group.
+!Azure has a global infrastruture containing 60+ regions for your resources to reside in! 
+//Next, It will ask if you want to lable this resource group with any existing tags.
+//Click the "Review + Create" button
+//It will preform a quick validation of the resource group
+//Click the "Create" button to deploy a brand new resource group 
+// You will recive a notification on the new resource group creation 
+
+*Summary of What we Learnt*
+What is Cloud Computing? 
+
+"Delivery"
+The delivery of the cloud computing services like servers, storage, databases, networking, software, etc.
+
+"Cloud"
+The deliveray of these services done over the internet 
+
+"Payment Model" 
+Here, you pay as much as you use. 
+
+"Be ahead of the competition"
+allows for faster, innovation, flexibility, and faster delivery of services 
+
+"Traditional Data Centers"
+
+//With cloud computing, companies dont need to invest in a traditional datacenter.
+//Less management, dont need to manage large machines
+//Less investment, dont need to invest in hardware
+//Less operations, dont need to invest in in managing the datacenter 
+//Focus on business
+
+"Growth of cloud computing platforms 
+//World wide end-user spending on public cloud services forecast for 2021 -> 23.1% growth in 2021 
+
+"Microsoft Azure" 
+//Microsoft Azure provides functionality that you can use in the form of a service. 
+//You can use the service to create a resource as part of your account 
+//Subscription used as a payment
+//"Resource group" This is used to to logically group resources.
+
+
+
