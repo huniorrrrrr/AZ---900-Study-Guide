@@ -1,1 +1,14 @@
+*Deploying a Virtual Machine*
 
+//This service allows you to create vms on azure without managing physical servers
+you can make use of on-demand pricing aswell
+pay based on how much you use
+
+// Each machine deployes is assign an ip address 
+Ip addresses are used to identify devices on a network 
+All devices are apart of your network that the wifi router manages
+
+//Companies will host servers in a network that will contain subnets which will seperate with diffrent services
+for example,, a server can contain a web application and a database but will serperate them via 2 subnets 
+
+Azure gives you a service called a Virtual Network Service   
